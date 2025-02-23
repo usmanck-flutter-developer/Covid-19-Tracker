@@ -1,0 +1,2 @@
+C:/Users/Dell/Desktop/Learn Flutter By Doing/covid19_app/android/app/.cxx/Debug/5x6k1765/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Desktop/Learn Flutter By Doing/covid19_app/android/app/.cxx/Debug/5x6k1765/armeabi-v7a/CMakeFiles/rebuild_cache.dir
